@@ -11,7 +11,7 @@ published: true
 
 ## Thêm mới bài thông tin
 
-Để thêm một bài thông tin, bạn cần:
+Để thêm một bài thông tin, bạn cần làm theo những bước sau:
 
 Nhấn chọn **Nội dung -> Thông tin**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
