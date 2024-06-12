@@ -17,7 +17,7 @@ Nhấn chọn **Nội dung -> Longform**. Nhấn chọn nút **Thêm** để th�
 
 Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi hàng ngang tương ứng hiển thị trên màn hình.
 
-![long-form.jpg](img/long-form.jpg)
+![long-form.jpg](img/;ỗi.jpg)
 
 Tùy chỉnh màn hình Desktop:
 
