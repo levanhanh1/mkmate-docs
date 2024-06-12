@@ -11,7 +11,7 @@ Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đ�
 
 ## Thêm mới longform
 
-Để thêm một nhóm longform, bạn cần:
+Để thêm một nhóm longform, bạn cần làm theo những bước sau:
 
 Nhấn chọn **Nội dung -> Longform**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
